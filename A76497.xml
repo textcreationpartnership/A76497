@@ -1,0 +1,673 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The names, dignities and places of all the collonells, lieutenant-collonels, serjant majors, captaines, quarter-masters, lieutenants and ensignes of the city of London vvith the captaines names according to their seniority and places. The Major Generall is the right worshipll. Philip Skippon Esquire, Serjant Major Generall of all the forces of London: one of the committee for the militia and captain of that ancient and worthy society exercising armes in the artillery garden of the same city.</title>
+            <author>City of London (England). Committee for the Militia</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76497</idno>
+            <idno type="STC">Wing B219</idno>
+            <idno type="STC">Thomason 669.f.6[10]</idno>
+            <idno type="STC">ESTC R211830</idno>
+            <idno type="EEBO-CITATION">99870522</idno>
+            <idno type="PROQUEST">99870522</idno>
+            <idno type="VID">160871</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76497)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160871)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f6[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The names, dignities and places of all the collonells, lieutenant-collonels, serjant majors, captaines, quarter-masters, lieutenants and ensignes of the city of London vvith the captaines names according to their seniority and places. The Major Generall is the right worshipll. Philip Skippon Esquire, Serjant Major Generall of all the forces of London: one of the committee for the militia and captain of that ancient and worthy society exercising armes in the artillery garden of the same city.</title>
+                  <author>City of London (England). Committee for the Militia</author>
+                  <author>W. B.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Thrale,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end of text: By W.B.</note>
+                  <note>With engraved border.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>City of London (England). --  Committee for the Militia --  Early works to 1800.</term>
+               <term>London (England) --  Defenses --  Early works to 1800.</term>
+               <term>Great Britain --  Militia --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list">
+            <pb facs="tcp:160871:1" rendition="simple:additions"/>
+            <head>THE NAMES, DIGNITIES AND PLACES OF ALL THE COLLONELLS, Lieutenant-Collonels, Serjant Majors, Captaines, Quarter-Maſters, Lieutenants and Enſignes of the City of LONDON: VVith the Captaines Names according to their Seniority and places.</head>
+            <head type="sub">The Major Generall is the Right Worship<hi rend="sup">ll</hi>. PHILIP SKIPPON Eſquire, Serjant Major Generall of all the Forces of LONDON: One of the Committe for the Militia, and Captain of that ancient and worthy Society exerciſing Armes in the Artillery garden of the ſame City.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">The Firſt Regiment Gules, The Diſtinction Argent, being Piles Wavey.</cell>
+                     <cell role="label">Quarter-Ma<g ref="char:EOLhyphen"/>ſters.</cell>
+                     <cell role="label">The Lieutenants of the Firſt Regiment.</cell>
+                     <cell role="label">The Enſignes of the Firſt Regiment.</cell>
+                  </row>
+                  <row>
+                     <cell>Alderman
+<list>
+                           <item>THOMAS ATKINS Collonell,</item>
+                           <item>
+                              <hi>Marmaduke Rawden</hi> Lieutenant Collo.</item>
+                           <item>
+                              <hi>Randolph Manwaring</hi> Serjant Major,</item>
+                           <item>
+                              <hi>James Bunce</hi> Senior Captaine.</item>
+                           <item>
+                              <hi>William Tucker</hi> Second Captaine.</item>
+                           <item>
+                              <hi>William Tomſon</hi> Third Captaine.</item>
+                           <item>
+                              <hi>Edward Hooker</hi> Fourth Captaine.</item>
+                           <item>
+                              <hi>Jonathan Gauthorn</hi> the Collo. Captaine.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <hi>MArtin Pinder</hi>
+                        <lb/> Generall<lb/> Quarter-Maſter of<lb/> the City, and<lb/> Quarter-Maſter to<lb/> Collonell <hi>Atkins.</hi>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>WIlliam Chapman</hi> Lieutenant.</item>
+                           <item>
+                              <hi>George Payne</hi> Lieutenant.</item>
+                           <item>
+                              <hi>William Manby</hi> Lieutenant.</item>
+                           <item>
+                              <hi>Peter Cuſhin</hi> Lieutenant.</item>
+                           <item>
+                              <hi>Thomas Clarke</hi> Lieutenant.</item>
+                           <item>
+                              <hi>John Mould</hi> Lieutenant.</item>
+                           <item>
+                              <hi>John Sweeting,</hi> The bringer up to the Collo<g ref="char:EOLhyphen"/>nells Company.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>ARthur Hollingworth</hi> Enſigne</item>
+                           <item>
+                              <hi>John Aſhley</hi> Enſigne</item>
+                           <item>
+                              <hi>Francis Finch</hi> Enſigne</item>
+                           <item>
+                              <hi>Thomas Corbett</hi> Enſigne</item>
+                           <item>
+                              <hi>Edward Wallis</hi> Enſigne</item>
+                           <item>
+                              <hi>Thomas Archer</hi> Enſigne</item>
+                           <item>
+                              <hi>George Moſſe,</hi> The Collonells En<g ref="char:EOLhyphen"/>ſigne.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">The Second Regiment Argent, The Diſtinction Gules, being Lozinges.</cell>
+                     <cell role="label">Quarter-Ma<g ref="char:EOLhyphen"/>ſters.</cell>
+                     <cell role="label">The Lieutenants of the Second Regiment.</cell>
+                     <cell role="label">The Enſignes of the Second Regiment.</cell>
+                  </row>
+                  <row>
+                     <cell>Alderman
+<list>
+                           <item>ISAACK PENNINGTON Collonell,</item>
+                           <item>
+                              <hi>George Langham</hi> Lieutenant Collonell,</item>
+                           <item>
+                              <hi>Robert Davis</hi> Serjant Major,</item>
+                           <item>
+                              <hi>Thomas Chamberlaine</hi> Senior Captaine.</item>
+                           <item>
+                              <hi>Thomas Player</hi> Second Captaine.</item>
+                           <item>
+                              <hi>Edmund Harvey</hi> Third Captaine.</item>
+                           <item>
+                              <hi>Chriſtopher Whichcot</hi> Fourth Captaine.</item>
+                           <item>
+                              <hi>Forth Gooday</hi> the Collonells Captaine.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <hi>IOhn Melton</hi>
+                        <lb/> Quarter-Maſter<lb/> to Collonell <hi>Pen<g ref="char:EOLhyphen"/>
+                           <lb/>nington.</hi>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>TImothy Cruſoe</hi> Lieutenant.</item>
+                           <item>
+                              <hi>John Smart</hi> Junior Lieutenant.</item>
+                           <item>
+                              <hi>Richard Hardmeat</hi> Lieutenant.</item>
+                           <item>
+                              <hi>Joſuah Watmough</hi> Lieutenant.</item>
+                           <item>
+                              <hi>George Langham</hi> Lieutenant.</item>
+                           <item>
+                              <hi>Nathaniell Cocke,</hi> Lieutenant.</item>
+                           <item>
+                              <hi>William Sheward,</hi> The bringer up to the Collonells Company.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>IOhn Juxon</hi> Enſigne.</item>
+                           <item>
+                              <hi>Nathaniell Simons</hi> Enſigne.</item>
+                           <item>
+                              <hi>John Smart</hi> Senior Enſigne.</item>
+                           <item>
+                              <hi>Thomas Player</hi> Enſigne.</item>
+                           <item>
+                              <hi>Simon Hacket</hi> Enſigne.</item>
+                           <item>
+                              <hi>William Corey</hi> Enſigne.</item>
+                           <item>
+                              <hi>Robert Tomſon,</hi> The Collonells Enſigne.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">The Third Regiment Or, The Diſtinction Sables, being Mulletts.</cell>
+                     <cell role="label">Quarter-Ma<g ref="char:EOLhyphen"/>ſters.</cell>
+                     <cell role="label">The Lieutenants of the Third Regiment.</cell>
+                     <cell role="label">The Enſignes of the Third Regiment.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <item>Sr. JOHN WOLLASTON Collonell,</item>
+                           <item>
+                              <hi>John Ven</hi> Lieutenant Collonell,</item>
+                           <item>
+                              <hi>William Geere</hi> Serjant Major,</item>
+                           <item>
+                              <hi>Richard Turner</hi> Senior Captaine.</item>
+                           <item>
+                              <hi>Ralph Harriſon</hi> Second Captaine.</item>
+                           <item>
+                              <hi>Richard Cutbert</hi> Third Captaine.</item>
+                           <item>
+                              <hi>Robert Tichburn</hi> Fourth Captaine.</item>
+                           <item>
+                              <hi>William Barriff</hi> the Collo. Captaine.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <hi>HEnry Lee</hi>
+                        <lb/> Quarter-Ma<g ref="char:EOLhyphen"/>
+                        <lb/>ſter to Collonell<lb/> 
+                        <hi>Wollaſton.</hi>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>IOhn Fenton</hi> Lieutenant.</item>
+                           <item>
+                              <hi>William Burles</hi> Lieutenant.</item>
+                           <item>
+                              <hi>Samuell Turner</hi> Lieutenant.</item>
+                           <item>
+                              <hi>Charles Jennings</hi> Lieutenant.</item>
+                           <item>
+                              <hi>William Hitchcot</hi> Lieutenant.</item>
+                           <item>
+                              <hi>Matthew Andrewes</hi> Lieutenant.</item>
+                           <item>
+                              <hi>Robert Farrington,</hi> The bringer up to the Collonells Company.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>PArtrick Bamford</hi> Enſigne.</item>
+                           <item>
+                              <hi>Robert Aſhton</hi> Enſigne.</item>
+                           <item>
+                              <hi>John Alford</hi> Enſigne.</item>
+                           <item>
+                              <hi>Ralph Woodcock</hi> Enſigne.</item>
+                           <item>
+                              <hi>Edward Brandwood</hi> Enſigne.</item>
+                           <item>
+                              <hi>Hamon Ward</hi> Enſigne.</item>
+                           <item>
+                              <hi>Samuell Maning,</hi> The Collonells Enſigne.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">The Fourth Regiment Azure, The Diſtinction Plates.</cell>
+                     <cell role="label">Quarter-Ma<g ref="char:EOLhyphen"/>ſters.</cell>
+                     <cell role="label">The Lieutenants of the Fourth Regiment.</cell>
+                     <cell role="label">The Enſignes of the Fourth Regiment.</cell>
+                  </row>
+                  <row>
+                     <cell>Alderman
+<list>
+                           <item>THOMAS ADAMS Collonell,</item>
+                           <item>
+                              <hi>Edmund Foſter</hi> Lieutenant Collonell,</item>
+                           <item>
+                              <hi>Samuel Carleton</hi> Serjant Major,</item>
+                           <item>
+                              <hi>Francis Weſt</hi> Senior Captaine.</item>
+                           <item>
+                              <hi>John Blackwell</hi> Second Captaine.</item>
+                           <item>
+                              <hi>Richard Hacket</hi> Third Captaine.</item>
+                           <item>
+                              <hi>William <g ref="char:V">Ʋ</g>nderwood</hi> Fourth Captaine.</item>
+                           <item>
+                              <hi>Edward Bellamie</hi> the Collo. Captaine.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <hi>THomas Cox</hi>
+                        <lb/> Quarter-Ma<g ref="char:EOLhyphen"/>
+                        <lb/>ſter to Collonell<lb/> 
+                        <hi>Adams.</hi>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>RAlph Cotsforth</hi> Lieutenant.</item>
+                           <item>
+                              <hi>Daniell Clarke</hi> Lieutenant.</item>
+                           <item>
+                              <hi>John Stoneing</hi> Lieutenant.</item>
+                           <item>
+                              <hi>Henry Hi<gap reason="illegible" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>kman</hi> Lieutenant.</item>
+                           <item>
+                              <hi>Andrew Bidgood</hi> Lieutenant.</item>
+                           <item>
+                              <hi>Edward Rogers</hi> Lieutenant.</item>
+                           <item>
+                              <hi>George Hurlock,</hi> The bringer up to the Collonells Company.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>IOhn Coſſens</hi> Enſigne.</item>
+                           <item>
+                              <hi>Joſias Ente</hi> Enſigne.</item>
+                           <item>
+                              <hi>Thomas Drinkwater</hi> Enſigne.</item>
+                           <item>
+                              <hi>Iohn Blackwell</hi> Enſigne.</item>
+                           <item>
+                              <hi>Humphry Gould</hi> Junior Enſigne.</item>
+                           <item>
+                              <hi>Richard Wilſon</hi> Enſigne.</item>
+                           <item>
+                              <hi>Humphry Gould</hi>Senior, The Col<g ref="char:EOLhyphen"/>lonells Enſigne.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">The Fift Regiment Vert, The diſtinct on Argent, being Galthropes.</cell>
+                     <cell role="label">Quarter-Ma<g ref="char:EOLhyphen"/>ſters.</cell>
+                     <cell role="label">The Lieutenants of the Fift Regiment.</cell>
+                     <cell role="label">The Enſignes of the Fift Regiment.</cell>
+                  </row>
+                  <row>
+                     <cell>Alderman
+<list>
+                           <item>IOHN WARNER Collonell,</item>
+                           <item>
+                              <hi>Mathew Forſter</hi> Lieutenant Collonell,</item>
+                           <item>
+                              <hi>Owin Rowe</hi> Serjant Major,</item>
+                           <item>
+                              <hi>Matthew Shepard</hi> Senior Captaine.</item>
+                           <item>
+                              <hi>Francis Rowe</hi> Second Captaine.</item>
+                           <item>
+                              <hi>Robert Manwaring</hi> Third Captaine.</item>
+                           <item>
+                              <hi>Nathaniell Hawes</hi> the Collo. Captaine.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <hi>THomas Danſer</hi>
+                        <lb/> Quarter-Ma<g ref="char:EOLhyphen"/>
+                        <lb/>ſter to Collonell<lb/> 
+                        <hi>Warner.</hi>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>THomas Whitley</hi> Lieutenant.</item>
+                           <item>
+                              <hi>William Stackhouſe</hi> Lieutenant.</item>
+                           <item>
+                              <hi>Walter White</hi> Lieutenant.</item>
+                           <item>
+                              <hi>Roger Clay</hi> Lieutenant.</item>
+                           <item>
+                              <hi>James Wancourt</hi> Lieutenant.</item>
+                           <item>
+                              <hi>Thomas Jackson,</hi> The bringer up to the Collonells Company.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>THomas Simcots</hi> Enſigne.</item>
+                           <item>
+                              <hi>Samuell Clerrige</hi> Enſigne.</item>
+                           <item>
+                              <hi>William Cam</hi> Enſigne.</item>
+                           <item>
+                              <hi>Thomas Iohnſon</hi> Enſigne.</item>
+                           <item>
+                              <hi>Ralph Tasker</hi> Enſigne.</item>
+                           <item>
+                              <hi>Thomas Iuxon,</hi> The Collonells Enſigne.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">The Sixt Regiment Orange, The deſtinction Argent being Trefoiles.</cell>
+                     <cell role="label">Quarter-Ma<g ref="char:EOLhyphen"/>ſters.</cell>
+                     <cell role="label">The Lieutenants of the Sixt Regiment.</cell>
+                     <cell role="label">The Enſignes of the Sixt Regiment.</cell>
+                  </row>
+                  <row>
+                     <cell>Alderman
+<list>
+                           <item>IOHN TOVVSE Collonell,</item>
+                           <item>
+                              <hi>Rowland Wilſon</hi> Lieutenant Collonell,</item>
+                           <item>
+                              <hi>Thomas Buxton</hi> Serjant Major,</item>
+                           <item>
+                              <hi>Richard Brown</hi> Senior Captaine.</item>
+                           <item>
+                              <hi>Nathaniell Camfield</hi> Second Captaine.</item>
+                           <item>
+                              <hi>Thomas Gower</hi> Third Captaine.</item>
+                           <item>
+                              <hi>Richard Wolleston</hi> the Collo. Captaine.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <hi>THomas Harper</hi>
+                        <lb/> Quarter-Ma<g ref="char:EOLhyphen"/>
+                        <lb/>ſter to Col. <hi>Towſe.</hi>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>IOhn Brett</hi> Lieutenant.</item>
+                           <item>
+                              <hi>Richard Parker</hi> Lieutenant.</item>
+                           <item>
+                              <hi>Nath Whetham</hi> Lieutenant.</item>
+                           <item>
+                              <hi>Richard Lacy</hi> Lieutenant.</item>
+                           <item>
+                              <hi>Thomas Wardley</hi> Lieutenant.</item>
+                           <item>
+                              <hi>John Alſop,</hi> The bringer up to the Collo<g ref="char:EOLhyphen"/>nells Company.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>WIlliam Iulian</hi> Enſigne.</item>
+                           <item>
+                              <hi>Walter Boſuile</hi> Enſigne.</item>
+                           <item>
+                              <hi>Robert Ruſſell</hi> Enſigne.</item>
+                           <item>
+                              <hi>Thomas Pride</hi> Enſigne.</item>
+                           <item>
+                              <hi>Iohn Randoll</hi> Enſigne.</item>
+                           <item>
+                              <hi>Beſney Maſon,</hi> The Collonells Enſigne.</item>
+                        </list>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <list>
+                  <item>
+                     <list>
+                        <head>The Captains names according to their Seniority.</head>
+                        <item>
+                           <hi>MArmaduke Rawdon,</hi>
+                        </item>
+                        <item>
+                           <hi>George Langham,</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Venn,</hi>
+                        </item>
+                        <item>
+                           <hi>Edmond Foſter,</hi>
+                        </item>
+                        <item>
+                           <hi>William Geere,</hi>
+                        </item>
+                        <item>
+                           <hi>Samuell Carlton,</hi>
+                        </item>
+                        <item>
+                           <hi>Randolph Manwaring,</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Davis,</hi>
+                        </item>
+                        <item>
+                           <hi>Matthew Forster,</hi>
+                        </item>
+                        <item>
+                           <hi>Rowland Wilſon,</hi>
+                        </item>
+                        <item>
+                           <hi>Iames Bunce,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Chamberlaine,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Buxton,</hi>
+                        </item>
+                        <item>
+                           <hi>Francis Weſt,</hi>
+                        </item>
+                        <item>
+                           <hi>Owin Rowe,</hi>
+                        </item>
+                        <item>
+                           <hi>William Tucker,</hi>
+                        </item>
+                        <item>
+                           <hi>William Thomſon,</hi>
+                        </item>
+                        <item>
+                           <hi>Matthew Sheppard,</hi>
+                        </item>
+                        <item>
+                           <hi>Edward Hooker,</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Brown,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Player,</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Turner,</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Blackwell,</hi>
+                        </item>
+                        <item>
+                           <hi>Francis Rowe,</hi>
+                        </item>
+                        <item>
+                           <hi>Ralph Harriſon,</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Cutbert,</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Hacket,</hi>
+                        </item>
+                        <item>
+                           <hi>Edmund Harvie,</hi>
+                        </item>
+                        <item>
+                           <hi>William <g ref="char:V">Ʋ</g>nderwood,</hi>
+                        </item>
+                        <item>
+                           <hi>Chriſtopher Whichcot,</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Tichburne,</hi>
+                        </item>
+                        <item>
+                           <hi>Nathaniell Camfield,</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Manwaring,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Gower,</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <list>
+                        <head>The Collonells Captaines.</head>
+                        <item>
+                           <hi>Ionathan Gauthorne,</hi>
+                        </item>
+                        <item>
+                           <hi>Foorth Gooday,</hi>
+                        </item>
+                        <item>
+                           <hi>William Barriff,</hi>
+                        </item>
+                        <item>
+                           <hi>Edward Belamy,</hi>
+                        </item>
+                        <item>
+                           <hi>Nathaniell Hawes,</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Wolleſton,</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <byline>By <hi>W.B.</hi>
+            </byline>
+            <trailer>
+               <figure>
+                  <figDesc>depiction of a flower</figDesc>
+               </figure>
+            </trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed for Richard Thrale. 1642.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
